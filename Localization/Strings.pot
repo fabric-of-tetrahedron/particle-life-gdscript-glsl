@@ -16,7 +16,7 @@ msgid "Hide Config\n"
 msgstr ""
 
 #: control.tscn
-msgid "Regen Forces"
+msgid "Edit Forces"
 msgstr ""
 
 #: control.tscn

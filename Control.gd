@@ -28,5 +28,5 @@ func _on_sliders_change_num_particles():
 	change_num_particles.emit()
 
 
-func _on_regen_matrix_pressed():
+func _on_edit_matrix_pressed():
 	regen_matrix.emit()

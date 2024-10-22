@@ -32,12 +32,12 @@ offset_bottom = 191.0
 text = "Hide Config
 "
 
-[node name="RegenMatrix" type="Button" parent="Sliders"]
+[node name="EditMatrix" type="Button" parent="Sliders"]
 layout_mode = 0
 offset_top = 160.0
 offset_right = 111.0
 offset_bottom = 191.0
-text = "Regen Forces"
+text = "Edit Forces"
 
 [node name="BetaSlider" parent="Sliders" instance=ExtResource("3_qiix4")]
 
@@ -67,7 +67,7 @@ text = "Edit Config"
 [connection signal="change_num_particles" from="Sliders" to="." method="_on_sliders_change_num_particles"]
 [connection signal="regen_images" from="Sliders" to="." method="_on_sliders_regen_images"]
 [connection signal="pressed" from="Sliders/HideConfig" to="." method="_on_hide_config_pressed"]
-[connection signal="pressed" from="Sliders/RegenMatrix" to="." method="_on_regen_matrix_pressed"]
+[connection signal="pressed" from="Sliders/EditMatrix" to="." method="_on_edit_matrix_pressed"]
 [connection signal="change_value" from="Sliders/BetaSlider" to="Sliders" method="_on_beta_slider_change_value"]
 [connection signal="change_value" from="Sliders/RMaxSlider" to="Sliders" method="_on_r_max_slider_change_value"]
 [connection signal="change_value" from="Sliders/ColorSlider" to="Sliders" method="_on_color_slider_change_value"]

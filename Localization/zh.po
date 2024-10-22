@@ -22,8 +22,8 @@ msgid "Hide Config\n"
 msgstr "隐藏配置\n"
 
 #: control.tscn
-msgid "Regen Forces"
-msgstr "重新生成力学矩阵"
+msgid "Edit Forces"
+msgstr "编辑力学矩阵"
 
 #: control.tscn
 msgid "Edit Config"
