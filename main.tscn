@@ -66,5 +66,5 @@ environment = SubResource("Environment_o64oc")
 
 [connection signal="change_common" from="CanvasLayer/Control" to="." method="_on_control_change_common"]
 [connection signal="change_num_particles" from="CanvasLayer/Control" to="." method="_on_control_change_num_particles"]
+[connection signal="edit_matrix" from="CanvasLayer/Control" to="." method="_on_control_edit_matrix"]
 [connection signal="regen_images" from="CanvasLayer/Control" to="." method="_on_control_regen_images"]
-[connection signal="regen_matrix" from="CanvasLayer/Control" to="." method="_on_control_regen_matrix"]

@@ -57,6 +57,11 @@ offset_bottom = 123.0
 offset_top = 120.0
 offset_bottom = 153.0
 
+[node name="ForceMatrixEditor" type="Control" parent="Sliders"]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
 [node name="ShowConfig" type="Button" parent="."]
 layout_mode = 0
 offset_right = 8.0

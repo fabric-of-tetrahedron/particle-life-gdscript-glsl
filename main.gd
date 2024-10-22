@@ -229,8 +229,8 @@ func _on_control_regen_images():
 func _on_control_change_num_particles():
 	$ParticlesGPU.amount = Common.num_particles
 
-# 重新生成矩阵
-func _on_control_regen_matrix():
+# 编辑力学矩阵
+func _on_control_edit_matrix():
 	rd.sync()
 	shader_executed = false
 	_gen_matrix()

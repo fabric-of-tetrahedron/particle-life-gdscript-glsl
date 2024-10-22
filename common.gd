@@ -11,7 +11,7 @@ var beta = 0.3
 var r_max = 0.1
 var friction_half_life = 0.070
 var friction_factor = pow(0.5, dt/friction_half_life)
-var n_color = 8
+var n_color = 12
 var scale = 0.05
 
 func get_friction_factor():
