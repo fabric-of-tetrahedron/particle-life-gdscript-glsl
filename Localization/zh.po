@@ -1,0 +1,281 @@
+# LANGUAGE translation for particle-life-shader for the following files:
+# res://control.tscn
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: particle-life-shader\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: control.tscn
+msgid "Hide Config\n"
+msgstr "隐藏配置\n"
+
+#: control.tscn
+msgid "Regen Forces"
+msgstr "重新生成力学矩阵"
+
+#: control.tscn
+msgid "Edit Config"
+msgstr "编辑配置"
+
+msgid "New Code Region"
+msgstr "新代码区域"
+
+msgid "Pick a color from the screen."
+msgstr "从屏幕上选择颜色。"
+
+msgid "Pick a color from the application window."
+msgstr "从应用程序窗口中选择颜色。"
+
+msgid ""
+"Color: #%s\n"
+"LMB: Apply color\n"
+"RMB: Remove preset"
+msgstr ""
+"颜色：#%s\n"
+"左键：应用颜色\n"
+"右键：移除预设"
+
+msgid ""
+"Color: #%s\n"
+"LMB: Apply color"
+msgstr ""
+"颜色：#%s\n"
+"左键：应用颜色"
+
+msgid "Enter a hex code (\"#ff0000\") or named color (\"red\")."
+msgstr "输入十六进制代码（\"#ff0000\"）或命名颜色（\"red\"）。"
+
+msgid "Select a picker shape."
+msgstr "选择拾色器形状。"
+
+msgid "Select a picker mode."
+msgstr "选择拾色器模式。"
+
+msgid "Hex code or named color"
+msgstr "十六进制代码或命名颜色"
+
+msgid "Add current color as a preset."
+msgstr "将当前颜色添加为预设。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Alert!"
+msgstr "警告！"
+
+msgid "Please Confirm..."
+msgstr "请确认..."
+
+msgid "Network"
+msgstr "网络"
+
+msgid ""
+"File \"%s\" already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"文件 \"%s\" 已存在。\n"
+"您想要覆盖它吗？"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Select Current Folder"
+msgstr "选择当前文件夹"
+
+msgid "Select This Folder"
+msgstr "选择此文件夹"
+
+msgid "You don't have permission to access contents of this folder."
+msgstr "您没有权限访问此文件夹的内容。"
+
+msgid "All Recognized"
+msgstr "所有已识别"
+
+msgid "All Files"
+msgstr "所有文件"
+
+msgid "Open a File"
+msgstr "打开文件"
+
+msgid "Open File(s)"
+msgstr "打开文件"
+
+msgid "Open a Directory"
+msgstr "打开目录"
+
+msgid "Open a File or Directory"
+msgstr "打开文件或目录"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save a File"
+msgstr "保存文件"
+
+msgid "Go to previous folder."
+msgstr "转到上一个文件夹。"
+
+msgid "Go to next folder."
+msgstr "转到下一个文件夹。"
+
+msgid "Go to parent folder."
+msgstr "转到父文件夹。"
+
+msgid "Path:"
+msgstr "路径："
+
+msgid "Refresh files."
+msgstr "刷新文件。"
+
+msgid "Toggle the visibility of hidden files."
+msgstr "切换隐藏文件的可见性。"
+
+msgid "Create a new folder."
+msgstr "创建新文件夹。"
+
+msgid "Directories & Files:"
+msgstr "目录和文件："
+
+msgid "File:"
+msgstr "文件："
+
+msgid "Create Folder"
+msgstr "创建文件夹"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Could not create folder."
+msgstr "无法创建文件夹。"
+
+msgid "Invalid extension, or empty filename."
+msgstr "无效的扩展名或空文件名。"
+
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgid "Zoom Reset"
+msgstr "重置缩放"
+
+msgid "Zoom In"
+msgstr "放大"
+
+msgid "Toggle the visual grid."
+msgstr "切换可视网格。"
+
+msgid "Toggle snapping to the grid."
+msgstr "切换网格对齐。"
+
+msgid "Change the snapping distance."
+msgstr "更改对齐距离。"
+
+msgid "Toggle the graph minimap."
+msgstr "切换图形小地图。"
+
+msgid "Automatically arrange selected nodes."
+msgstr "自动排列选定的节点。"
+
+msgid "Same as Layout Direction"
+msgstr "与布局方向相同"
+
+msgid "Auto-Detect Direction"
+msgstr "自动检测方向"
+
+msgid "Left-to-Right"
+msgstr "从左到右"
+
+msgid "Right-to-Left"
+msgstr "从右到左"
+
+msgid "Left-to-Right Mark (LRM)"
+msgstr "从左到右标记（LRM）"
+
+msgid "Right-to-Left Mark (RLM)"
+msgstr "从右到左标记（RLM）"
+
+msgid "Start of Left-to-Right Embedding (LRE)"
+msgstr "开始从左到右嵌入（LRE）"
+
+msgid "Start of Right-to-Left Embedding (RLE)"
+msgstr "开始从右到左嵌入（RLE）"
+
+msgid "Start of Left-to-Right Override (LRO)"
+msgstr "开始从左到右覆盖（LRO）"
+
+msgid "Start of Right-to-Left Override (RLO)"
+msgstr "开始从右到左覆盖（RLO）"
+
+msgid "Pop Direction Formatting (PDF)"
+msgstr "弹出方向格式化（PDF）"
+
+msgid "Arabic Letter Mark (ALM)"
+msgstr "阿拉伯字母标记（ALM）"
+
+msgid "Left-to-Right Isolate (LRI)"
+msgstr "从左到右隔离（LRI）"
+
+msgid "Right-to-Left Isolate (RLI)"
+msgstr "从右到左隔离（RLI）"
+
+msgid "First Strong Isolate (FSI)"
+msgstr "第一个强隔离（FSI）"
+
+msgid "Pop Direction Isolate (PDI)"
+msgstr "弹出方向隔离（PDI）"
+
+msgid "Zero-Width Joiner (ZWJ)"
+msgstr "零宽连接符（ZWJ）"
+
+msgid "Zero-Width Non-Joiner (ZWNJ)"
+msgstr "零宽非连接符（ZWNJ）"
+
+msgid "Word Joiner (WJ)"
+msgstr "单词连接符（WJ）"
+
+msgid "Soft Hyphen (SHY)"
+msgstr "软连字符（SHY）"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Text Writing Direction"
+msgstr "文本书写方向"
+
+msgid "Display Control Characters"
+msgstr "显示控制字符"
+
+msgid "Insert Control Character"
+msgstr "插入控制字符"
